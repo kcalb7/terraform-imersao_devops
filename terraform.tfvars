@@ -1,4 +1,4 @@
-token        = "dop_v1_41f6fb51ffe2057019018fea079df44864ba601136efdb0d2d82a18cee675f82"
+token        = "dop_v1_f1f8cf7d6d34e0d735fde90147dbd4b14a785cc99be71f4b919f772880dadfff"
 ssh_key_name = "codebit douglas"
 region       = "nyc1"
 size         = "s-2vcpu-2gb"
